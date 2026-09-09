@@ -242,6 +242,36 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-zakon-4-fz-o-sledstvennom-komitete",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-1-fz-o-gosudarstvennoi-sluzhbe",
+      "type": "federal-law",
+      "title": "Федеральный закон № 1-ФЗ \"О государственной службе\"",
+      "shortTitle": null,
+      "lawNumber": "1-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-1-fz-o-gosudarstvennoi-sluzhbe",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-3-fkz-o-vvodimykh-pravovykh-re",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон № 3-ФКЗ \"О вводимых правовых режимах\"",
+      "shortTitle": null,
+      "lawNumber": "3-ФКЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-3-fkz-o-vvodimykh-pravovykh-re",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-1-fkz-o-pravitelstve",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон № 1-ФКЗ \"О Правительстве\"",
+      "shortTitle": null,
+      "lawNumber": "1-ФКЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-1-fkz-o-pravitelstve",
+      "revision": 1
     }
   ]
 }
