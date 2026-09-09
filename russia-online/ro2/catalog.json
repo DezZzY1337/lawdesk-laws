@@ -62,6 +62,186 @@
       "sourceUrl": null,
       "path": "documents/kodeks-ob-administrativnykh-pravonarusheniyakh",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-2-fkz-o-gosudarstvennoi-dume-f",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон № 2-ФКЗ \"О Государственной Думе Федерального Собрания РО\"",
+      "shortTitle": null,
+      "lawNumber": "2-ФКЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-2-fkz-o-gosudarstvennoi-dume-f",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-13-fz-ob-advokatskoi-deyatelnosti-i-advokature",
+      "type": "federal-law",
+      "title": "Федеральный закон № 13-ФЗ \"Об адвокатской деятельности и адвокатуре\"",
+      "shortTitle": null,
+      "lawNumber": "13-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-13-fz-ob-advokatskoi-deyatelnosti-i-advokature",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-2-fz-ob-oborone",
+      "type": "federal-law",
+      "title": "Федеральный закон № 2-ФЗ \"Об обороне\"",
+      "shortTitle": null,
+      "lawNumber": "2-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-2-fz-ob-oborone",
+      "revision": 1
+    },
+    {
+      "id": "zakon-goroda-moskvy-o-regulirovanii-statusa-gosudarstvennoi-sobs",
+      "type": "other",
+      "title": "Закон города Москвы \"О регулировании статуса государственной собственности и территорий\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/zakon-goroda-moskvy-o-regulirovanii-statusa-gosudarstvennoi-sobs",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-16-fz-o-sobraniyakh-mitingakh-i-publichnykh-mer",
+      "type": "federal-law",
+      "title": "Федеральный закон № 16-ФЗ \"О собраниях, митингах и публичных мероприятиях\"",
+      "shortTitle": null,
+      "lawNumber": "16-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-16-fz-o-sobraniyakh-mitingakh-i-publichnykh-mer",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-14-fz-ob-operativno-rozysknoi-deyatelnosti",
+      "type": "federal-law",
+      "title": "Федеральный закон № 14-ФЗ \"Об оперативно-розыскной деятельности\"",
+      "shortTitle": null,
+      "lawNumber": "14-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-14-fz-ob-operativno-rozysknoi-deyatelnosti",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-4-fkz-o-sudebnoi-sisteme-i-sud",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон № 4-ФКЗ \"О судебной системе и судопроизводстве\"",
+      "shortTitle": null,
+      "lawNumber": "4-ФКЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-4-fkz-o-sudebnoi-sisteme-i-sud",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-12-fz-o-gosudarstvennoi-taine",
+      "type": "federal-law",
+      "title": "Федеральный закон № 12-ФЗ \"О государственной тайне\"",
+      "shortTitle": null,
+      "lawNumber": "12-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-12-fz-o-gosudarstvennoi-taine",
+      "revision": 1
+    },
+    {
+      "id": "zakon-goroda-moskvy-o-zdravookhranenii",
+      "type": "other",
+      "title": "Закон города Москвы \"О Здравоохранении\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/zakon-goroda-moskvy-o-zdravookhranenii",
+      "revision": 1
+    },
+    {
+      "id": "ustav-goroda-moskvy",
+      "type": "other",
+      "title": "Устав города Москвы",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ustav-goroda-moskvy",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-11-fz-o-ministerstve-yustitsii",
+      "type": "federal-law",
+      "title": "Федеральный закон № 11-ФЗ \"О Министерстве юстиции\"",
+      "shortTitle": null,
+      "lawNumber": "11-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-11-fz-o-ministerstve-yustitsii",
+      "revision": 1
+    },
+    {
+      "id": "zakon-goroda-moskvy-o-gosudarstvennoi-novostnoi-organizatsii-ves",
+      "type": "other",
+      "title": "Закон города Москвы \"О государственной новостной организации \"Вести Москвы\"\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/zakon-goroda-moskvy-o-gosudarstvennoi-novostnoi-organizatsii-ves",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-9-fz-o-politicheskikh-partiyakh-i-obshchestvenn",
+      "type": "federal-law",
+      "title": "Федеральный закон №9-ФЗ \"О политических партиях и общественных объединениях\"",
+      "shortTitle": null,
+      "lawNumber": "9-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-9-fz-o-politicheskikh-partiyakh-i-obshchestvenn",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-7-fz-o-gosudarstvennoi-okhrane",
+      "type": "federal-law",
+      "title": "Федеральный закон № 7-ФЗ \"О государственной охране\"",
+      "shortTitle": null,
+      "lawNumber": "7-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-7-fz-o-gosudarstvennoi-okhrane",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-6-fz-o-politsii",
+      "type": "federal-law",
+      "title": "Федеральный закон № 6-ФЗ \"О полиции\"",
+      "shortTitle": null,
+      "lawNumber": "6-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-6-fz-o-politsii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-5-fz-o-federalnoi-sluzhbe-bezopasnosti",
+      "type": "federal-law",
+      "title": "Федеральный закон № 5-ФЗ \"О Федеральной службе безопасности\"",
+      "shortTitle": null,
+      "lawNumber": "5-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-5-fz-o-federalnoi-sluzhbe-bezopasnosti",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "type": "code",
+      "title": "Кодекс этики и служебного поведения государственных служащих",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-4-fz-o-sledstvennom-komitete",
+      "type": "federal-law",
+      "title": "Федеральный закон № 4-ФЗ \"О Следственном комитете\"",
+      "shortTitle": null,
+      "lawNumber": "4-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-4-fz-o-sledstvennom-komitete",
+      "revision": 1
     }
   ]
 }
