@@ -32,6 +32,16 @@
       "sourceUrl": null,
       "path": "documents/con",
       "revision": 1
+    },
+    {
+      "id": "tk",
+      "type": "code",
+      "title": "Трудовой Кодекс",
+      "shortTitle": "Трудовой Кодекс",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/tk",
+      "revision": 1
     }
   ]
 }
