@@ -42,6 +42,16 @@
       "sourceUrl": null,
       "path": "documents/tk",
       "revision": 1
+    },
+    {
+      "id": "koap",
+      "type": "code",
+      "title": "Кодекс об административных правонарушениях",
+      "shortTitle": "КоАП",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/koap",
+      "revision": 1
     }
   ]
 }
