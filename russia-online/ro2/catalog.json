@@ -2,5 +2,66 @@
   "schemaVersion": 1,
   "projectId": "russia-online",
   "serverId": "ro2",
-  "documents": []
+  "documents": [
+    {
+      "id": "ugolovno-protsessualnyi-kodeks",
+      "type": "code",
+      "title": "Уголовно-процессуальный кодекс",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovno-protsessualnyi-kodeks",
+      "revision": 1
+    },
+    {
+      "id": "ugolovnyi-kodeks",
+      "type": "code",
+      "title": "Уголовный кодекс",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovnyi-kodeks",
+      "revision": 1
+    },
+    {
+      "id": "konstitutsiya-ro",
+      "type": "constitution",
+      "title": "Конституция РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/konstitutsiya-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-15-fz-o-pravilakh-dorozhnogo-dvizheniya-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон № 15-ФЗ \"О правилах дорожного движения РО\"",
+      "shortTitle": null,
+      "lawNumber": "15-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-15-fz-o-pravilakh-dorozhnogo-dvizheniya-ro",
+      "revision": 1
+    },
+    {
+      "id": "trudovoi-kodeks",
+      "type": "code",
+      "title": "Трудовой Кодекс",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/trudovoi-kodeks",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-ob-administrativnykh-pravonarusheniyakh",
+      "type": "code",
+      "title": "Кодекс об административных правонарушениях",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-ob-administrativnykh-pravonarusheniyakh",
+      "revision": 1
+    }
+  ]
 }
