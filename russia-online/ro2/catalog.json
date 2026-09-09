@@ -272,6 +272,36 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-konstitutsionnyi-zakon-1-fkz-o-pravitelstve",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-3-fz-o-prokurature",
+      "type": "federal-law",
+      "title": "Федеральный закон № 3-ФЗ \"О прокуратуре\"",
+      "shortTitle": null,
+      "lawNumber": "3-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-3-fz-o-prokurature",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-8-fz-o-regulirovanii-oruzhiya-boepripasov-i-spe",
+      "type": "federal-law",
+      "title": "Федеральный закон № 8-ФЗ \"О регулировании оружия, боеприпасов и специальных средств\"",
+      "shortTitle": null,
+      "lawNumber": "8-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-8-fz-o-regulirovanii-oruzhiya-boepripasov-i-spe",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-10-fz-ob-osobom-pravovom-statuse-dolzhnostnykh-",
+      "type": "federal-law",
+      "title": "Федеральный закон № 10-ФЗ \"Об особом правовом статусе должностных лиц\"",
+      "shortTitle": null,
+      "lawNumber": "10-ФЗ",
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-10-fz-ob-osobom-pravovom-statuse-dolzhnostnykh-",
+      "revision": 1
     }
   ]
 }
