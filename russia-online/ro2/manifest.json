@@ -1,8 +1,8 @@
 {
   "projectId": "russia-online",
-  "revision": "7",
+  "revision": "8",
   "serverId": "ro2",
-  "snapshotSha256": "0507bbdd5bc4dc1f5ffe982acc167ba1a678a43345347a5d5802e0add67b3804",
+  "snapshotSha256": "aaa587c52beb29fb554d34e4c729695134477c584d413ffa4ade1706ec776190",
   "snapshotUrl": "https://raw.githubusercontent.com/DezZzY1337/lawdesk-laws/main/russia-online/ro2/snapshot.json",
-  "updatedAt": "2026-09-09T17:56:35.2281629Z"
+  "updatedAt": "2026-09-09T18:20:40.8089747Z"
 }
