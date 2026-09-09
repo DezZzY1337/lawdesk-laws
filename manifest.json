@@ -6,35 +6,37 @@
     {
       "id": "majestic",
       "name": "Majestic RP",
+      "upstreamProjectId": "majestic",
       "servers": [
-        { "id": "new-york", "name": "New York", "code": "RU1" },
-        { "id": "detroit", "name": "Detroit", "code": "RU2" },
-        { "id": "chicago", "name": "Chicago", "code": "RU3" },
-        { "id": "san-francisco", "name": "San Francisco", "code": "RU4" },
-        { "id": "atlanta", "name": "Atlanta", "code": "RU5" },
-        { "id": "san-diego", "name": "San Diego", "code": "RU6" },
-        { "id": "los-angeles", "name": "Los Angeles", "code": "RU7" },
-        { "id": "miami", "name": "Miami", "code": "RU8" },
-        { "id": "las-vegas", "name": "Las Vegas", "code": "RU9" },
-        { "id": "washington", "name": "Washington", "code": "RU10" },
-        { "id": "dallas", "name": "Dallas", "code": "RU11" },
-        { "id": "boston", "name": "Boston", "code": "RU12" },
-        { "id": "houston", "name": "Houston", "code": "RU13" },
-        { "id": "seattle", "name": "Seattle", "code": "RU14" },
-        { "id": "phoenix", "name": "Phoenix", "code": "RU15" },
-        { "id": "denver", "name": "Denver", "code": "RU16" },
-        { "id": "portland", "name": "Portland", "code": "RU17" },
-        { "id": "orlando", "name": "Orlando", "code": "RU18" },
-        { "id": "memphis", "name": "Memphis", "code": "RU19" }
+        { "id": "ru1", "name": "New York", "manifest": "majestic/ru1/manifest.json" },
+        { "id": "ru2", "name": "Detroit", "manifest": "majestic/ru2/manifest.json" },
+        { "id": "ru3", "name": "Chicago", "manifest": "majestic/ru3/manifest.json" },
+        { "id": "ru4", "name": "San Francisco", "manifest": "majestic/ru4/manifest.json" },
+        { "id": "ru5", "name": "Atlanta", "manifest": "majestic/ru5/manifest.json" },
+        { "id": "ru6", "name": "San Diego", "manifest": "majestic/ru6/manifest.json" },
+        { "id": "ru7", "name": "Los Angeles", "manifest": "majestic/ru7/manifest.json" },
+        { "id": "ru8", "name": "Miami", "manifest": "majestic/ru8/manifest.json" },
+        { "id": "ru9", "name": "Las Vegas", "manifest": "majestic/ru9/manifest.json" },
+        { "id": "ru10", "name": "Washington", "manifest": "majestic/ru10/manifest.json" },
+        { "id": "ru11", "name": "Dallas", "manifest": "majestic/ru11/manifest.json" },
+        { "id": "ru12", "name": "Boston", "manifest": "majestic/ru12/manifest.json" },
+        { "id": "ru13", "name": "Houston", "manifest": "majestic/ru13/manifest.json" },
+        { "id": "ru14", "name": "Seattle", "manifest": "majestic/ru14/manifest.json" },
+        { "id": "ru15", "name": "Phoenix", "manifest": "majestic/ru15/manifest.json" },
+        { "id": "ru16", "name": "Denver", "manifest": "majestic/ru16/manifest.json" },
+        { "id": "ru17", "name": "Portland", "manifest": "majestic/ru17/manifest.json" },
+        { "id": "ru18", "name": "Orlando", "manifest": "majestic/ru18/manifest.json" },
+        { "id": "ru19", "name": "Memphis", "manifest": "majestic/ru19/manifest.json" }
       ]
     },
     {
       "id": "russia-online",
       "name": "Россия Онлайн",
+      "upstreamProjectId": "russiaonline",
       "servers": [
-        { "id": "arbatsky", "name": "Арбатский", "code": "RO1" },
-        { "id": "tverskoy", "name": "Тверской", "code": "RO2" },
-        { "id": "kutuzovsky", "name": "Кутузовский", "code": "RO3" }
+        { "id": "ro1", "name": "Арбатский", "manifest": "russia-online/ro1/manifest.json" },
+        { "id": "ro2", "name": "Тверской", "manifest": "russia-online/ro2/manifest.json" },
+        { "id": "ro3", "name": "Кутузовский", "manifest": "russia-online/ro3/manifest.json" }
       ]
     }
   ]

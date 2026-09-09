@@ -1,31 +1,33 @@
-# Поддерживаемые серверы
+# Поддерживаемые серверы LawDesk
 
-## Majestic RP — RU
+В правовую базу включаются только русские серверы из актуального списка серверов Majestic / Россия Онлайн.
 
-1. New York (`RU1`)
-2. Detroit (`RU2`)
-3. Chicago (`RU3`)
-4. San Francisco (`RU4`)
-5. Atlanta (`RU5`)
-6. San Diego (`RU6`)
-7. Los Angeles (`RU7`)
-8. Miami (`RU8`)
-9. Las Vegas (`RU9`)
-10. Washington (`RU10`)
-11. Dallas (`RU11`)
-12. Boston (`RU12`)
-13. Houston (`RU13`)
-14. Seattle (`RU14`)
-15. Phoenix (`RU15`)
-16. Denver (`RU16`)
-17. Portland (`RU17`)
-18. Orlando (`RU18`)
-19. Memphis (`RU19`)
+## Majestic RP
+
+- `ru1` — New York
+- `ru2` — Detroit
+- `ru3` — Chicago
+- `ru4` — San Francisco
+- `ru5` — Atlanta
+- `ru6` — San Diego
+- `ru7` — Los Angeles
+- `ru8` — Miami
+- `ru9` — Las Vegas
+- `ru10` — Washington
+- `ru11` — Dallas
+- `ru12` — Boston
+- `ru13` — Houston
+- `ru14` — Seattle
+- `ru15` — Phoenix
+- `ru16` — Denver
+- `ru17` — Portland
+- `ru18` — Orlando
+- `ru19` — Memphis
 
 ## Россия Онлайн
 
-1. Арбатский (`RO1`)
-2. Тверской (`RO2`)
-3. Кутузовский (`RO3`)
+- `ro1` — Арбатский
+- `ro2` — Тверской
+- `ro3` — Кутузовский
 
-Warsaw, Berlin и MCL намеренно не входят в русскую правовую базу LawDesk: Warsaw/Berlin относятся к другим языковым регионам, а MCL является event/non-game сервером.
+`de1`, `pl1`, `mcl` и иные не-`ru*`/`ro*` серверы в LawDesk не включаются.

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "projectId": "majestic",
-  "serverId": "de1",
-  "serverName": "Berlin",
-  "region": "eu",
-  "country": "de",
+  "serverId": "ru18",
+  "serverName": "Orlando",
+  "region": "ru",
+  "country": "ru",
   "revision": 0,
   "updatedAt": null,
   "documents": []
