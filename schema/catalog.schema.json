@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lawdesk.local/schema/catalog.schema.json",
+  "title": "LawDesk Server Catalog",
+  "type": "object",
+  "required": ["schemaVersion", "projectId", "serverId", "documents"],
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "projectId": { "type": "string", "minLength": 1 },
+    "serverId": { "type": "string", "minLength": 1 },
+    "documents": { "type": "array" }
+  },
+  "additionalProperties": true
+}

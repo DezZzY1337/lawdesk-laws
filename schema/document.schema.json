@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lawdesk.local/schema/document.schema.json",
+  "title": "LawDesk Parsed Legal Document",
+  "type": "object",
+  "required": ["schemaVersion", "projectId", "serverId", "documentId", "articles"],
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "projectId": { "type": "string", "minLength": 1 },
+    "serverId": { "type": "string", "minLength": 1 },
+    "documentId": { "type": "string", "minLength": 1 },
+    "articles": { "type": "array" }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "revision": 0,
+  "updatedAt": null,
+  "projects": [
+    {
+      "id": "majestic",
+      "name": "Majestic RP",
+      "servers": [
+        {
+          "id": "tverskoy",
+          "name": "Тверской",
+          "manifest": "majestic/tverskoy/manifest.json"
+        }
+      ]
+    },
+    {
+      "id": "russia-online",
+      "name": "Россия Онлайн",
+      "servers": [
+        {
+          "id": "moscow",
+          "name": "Москва",
+          "manifest": "russia-online/moscow/manifest.json"
+        }
+      ]
+    }
+  ]
+}

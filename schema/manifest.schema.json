@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lawdesk.local/schema/manifest.schema.json",
+  "title": "LawDesk Root Manifest",
+  "type": "object",
+  "required": ["schemaVersion", "revision", "projects"],
+  "properties": {
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "revision": { "type": "integer", "minimum": 0 },
+    "updatedAt": { "type": ["string", "null"], "format": "date-time" },
+    "projects": { "type": "array" }
+  },
+  "additionalProperties": true
+}
