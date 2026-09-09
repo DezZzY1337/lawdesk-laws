@@ -2,5 +2,56 @@
   "schemaVersion": 1,
   "projectId": "russia-online",
   "serverId": "ro2",
-  "documents": []
+  "documents": [
+    {
+      "id": "ugolovno-protsessualnyi-kodeks-ro",
+      "type": "code",
+      "title": "Уголовно-процессуальный кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovno-protsessualnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "ugolovnyi-kodeks-ro",
+      "type": "code",
+      "title": "Уголовный кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "konstitutsiya-ro",
+      "type": "constitution",
+      "title": "Конституция ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/konstitutsiya-ro",
+      "revision": 1
+    },
+    {
+      "id": "trudovoi-kodeks-ro",
+      "type": "code",
+      "title": "Трудовой кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/trudovoi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-ro",
+      "type": "code",
+      "title": "Кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-ro",
+      "revision": 1
+    }
+  ]
 }
