@@ -52,6 +52,16 @@
       "sourceUrl": null,
       "path": "documents/kodeks-ro",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-15-fz-o-pravilakh-dorozhnogo-dvizheniya-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон № 15-ФЗ \"О правилах дорожного движения РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-15-fz-o-pravilakh-dorozhnogo-dvizheniya-ro",
+      "revision": 1
     }
   ]
 }
