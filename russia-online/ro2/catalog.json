@@ -2,6 +2,26 @@
   "schemaVersion": 1,
   "projectId": "russia-online",
   "serverId": "ro2",
-  "serverName": "Тверской",
-  "documents": []
+  "documents": [
+    {
+      "id": "upk",
+      "type": "code",
+      "title": "Уголовно-процессуальный кодекс",
+      "shortTitle": "УПК",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/upk",
+      "revision": 1
+    },
+    {
+      "id": "uk",
+      "type": "other",
+      "title": "Уголовный кодекс",
+      "shortTitle": "УК",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/uk",
+      "revision": 1
+    }
+  ]
 }
