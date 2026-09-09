@@ -52,6 +52,26 @@
       "sourceUrl": null,
       "path": "documents/koap",
       "revision": 1
+    },
+    {
+      "id": "ugm",
+      "type": "code",
+      "title": "Устав города Москвы",
+      "shortTitle": "Устав города Москвы",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugm",
+      "revision": 1
+    },
+    {
+      "id": "15fz",
+      "type": "other",
+      "title": "Федеральный закон № 15-ФЗ \"О правилах дорожного движения РО\"",
+      "shortTitle": "Федеральный закон № 15-ФЗ \"О правилах дорожного движения РО\"",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/15fz",
+      "revision": 1
     }
   ]
 }
