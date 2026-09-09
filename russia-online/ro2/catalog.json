@@ -22,6 +22,16 @@
       "sourceUrl": null,
       "path": "documents/uk",
       "revision": 1
+    },
+    {
+      "id": "con",
+      "type": "constitution",
+      "title": "Конституция",
+      "shortTitle": "Конституция",
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/con",
+      "revision": 1
     }
   ]
 }
