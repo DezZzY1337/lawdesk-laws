@@ -7,22 +7,34 @@
       "id": "majestic",
       "name": "Majestic RP",
       "servers": [
-        {
-          "id": "tverskoy",
-          "name": "Тверской",
-          "manifest": "majestic/tverskoy/manifest.json"
-        }
+        { "id": "new-york", "name": "New York", "code": "RU1" },
+        { "id": "detroit", "name": "Detroit", "code": "RU2" },
+        { "id": "chicago", "name": "Chicago", "code": "RU3" },
+        { "id": "san-francisco", "name": "San Francisco", "code": "RU4" },
+        { "id": "atlanta", "name": "Atlanta", "code": "RU5" },
+        { "id": "san-diego", "name": "San Diego", "code": "RU6" },
+        { "id": "los-angeles", "name": "Los Angeles", "code": "RU7" },
+        { "id": "miami", "name": "Miami", "code": "RU8" },
+        { "id": "las-vegas", "name": "Las Vegas", "code": "RU9" },
+        { "id": "washington", "name": "Washington", "code": "RU10" },
+        { "id": "dallas", "name": "Dallas", "code": "RU11" },
+        { "id": "boston", "name": "Boston", "code": "RU12" },
+        { "id": "houston", "name": "Houston", "code": "RU13" },
+        { "id": "seattle", "name": "Seattle", "code": "RU14" },
+        { "id": "phoenix", "name": "Phoenix", "code": "RU15" },
+        { "id": "denver", "name": "Denver", "code": "RU16" },
+        { "id": "portland", "name": "Portland", "code": "RU17" },
+        { "id": "orlando", "name": "Orlando", "code": "RU18" },
+        { "id": "memphis", "name": "Memphis", "code": "RU19" }
       ]
     },
     {
       "id": "russia-online",
       "name": "Россия Онлайн",
       "servers": [
-        {
-          "id": "moscow",
-          "name": "Москва",
-          "manifest": "russia-online/moscow/manifest.json"
-        }
+        { "id": "arbatsky", "name": "Арбатский", "code": "RO1" },
+        { "id": "tverskoy", "name": "Тверской", "code": "RO2" },
+        { "id": "kutuzovsky", "name": "Кутузовский", "code": "RO3" }
       ]
     }
   ]
