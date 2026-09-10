@@ -2,5 +2,236 @@
   "schemaVersion": 1,
   "projectId": "russia-online",
   "serverId": "ro1",
-  "documents": []
+  "documents": [
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-sudebnoi-sisteme-ro",
+      "type": "constitution",
+      "title": "Федеральный Конституционный Закон \"О Судебной Системе РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-sudebnoi-sisteme-ro",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-ob-administrativnykh-pravonarusheniyakh-ro",
+      "type": "code",
+      "title": "Кодекс об административных правонарушениях РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-ob-administrativnykh-pravonarusheniyakh-ro",
+      "revision": 1
+    },
+    {
+      "id": "ugolovnyi-kodeks-ro",
+      "type": "code",
+      "title": "Уголовный Кодекс РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "protsessualnyi-kodeks-ro",
+      "type": "code",
+      "title": "Процессуальный Кодекс РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/protsessualnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "type": "code",
+      "title": "Кодекс этики и служебного поведения государственных служащих РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "revision": 1
+    },
+    {
+      "id": "trudovoi-kodeks-ro",
+      "type": "code",
+      "title": "Трудовой Кодекс РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/trudovoi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "konstitutsiya-ro",
+      "type": "constitution",
+      "title": "Конституция РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/konstitutsiya-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-gosudarstvennykh-dokumentakh",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О государственных документах\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-gosudarstvennykh-dokumentakh",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-ob-oborote-oruzhiya-i-gosudarstvennykh-spetsial",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"Об обороте оружия и государственных специальных средств РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-ob-oborote-oruzhiya-i-gosudarstvennykh-spetsial",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-federalnoi-sluzhbe-okhrany-ro",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О Федеральной Службе Охраны РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-federalnoi-sluzhbe-okhrany-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-ob-advokatskoi-deyatelnosti-i-advokature-v-ro",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"Об адвокатской деятельности и адвокатуре в РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-ob-advokatskoi-deyatelnosti-i-advokature-v-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-pravitelstve-ro",
+      "type": "constitution",
+      "title": "Федеральный Конституционный Закон \"О Правительстве РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-pravitelstve-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-statuse-territorii-i-osobykh-obektakh-ro",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О статусе территорий и особых объектах РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-statuse-territorii-i-osobykh-obektakh-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-predprinimatelskoi-deyatelnosti",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О предпринимательской деятельности\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-predprinimatelskoi-deyatelnosti",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-generalnoi-prokurature-ro",
+      "type": "constitution",
+      "title": "Федеральный Конституционный Закон \"О Генеральной Прокуратуре РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-generalnoi-prokurature-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-chrezvychainom-i-voennom-pol",
+      "type": "constitution",
+      "title": "Федеральный Конституционный Закон \"О чрезвычайном и военном положении\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-chrezvychainom-i-voennom-pol",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-statuse-neprikosnovennosti-dolzhnostnykh-lits",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О статусе неприкосновенности должностных лиц\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-statuse-neprikosnovennosti-dolzhnostnykh-lits",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-politsii",
+      "type": "federal-law",
+      "title": "Федеральный закон \"О полиции\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-politsii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-vooruzhennykh-silakh-ro",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О Вооруженных Силах РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-vooruzhennykh-silakh-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-sledstvennom-komitete-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон \"О Следственном комитете РО\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-sledstvennom-komitete-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-sredstvakh-massovoi-informatsii",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О Средствах массовой информации\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-sredstvakh-massovoi-informatsii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-statuse-meditsinskikh-uchrezhdenii",
+      "type": "federal-law",
+      "title": "Федеральный закон \"О статусе медицинских учреждений\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-statuse-meditsinskikh-uchrezhdenii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-federalnoi-sluzhbe-bezopasnosti",
+      "type": "federal-law",
+      "title": "Федеральный Закон \"О Федеральной Службе Безопасности\"",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-federalnoi-sluzhbe-bezopasnosti",
+      "revision": 1
+    }
+  ]
 }
