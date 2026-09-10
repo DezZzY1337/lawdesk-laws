@@ -192,6 +192,46 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-zakon-o-prokurature-ro",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-ob-advokature-i-advokatskoi-deyatelnosti",
+      "type": "federal-law",
+      "title": "Федеральный закон «Об адвокатуре и адвокатской деятельности»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-ob-advokature-i-advokatskoi-deyatelnosti",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-ob-okhrane-zdorovya-grazhdan",
+      "type": "federal-law",
+      "title": "Федеральный закон «Об охране здоровья граждан»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-ob-okhrane-zdorovya-grazhdan",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-gosudarstvennoi-sluzhbe-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Государственной службе ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-gosudarstvennoi-sluzhbe-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-neprikosnovennosti-dolzhnostnykh-lits-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Неприкосновенности должностных лиц ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-neprikosnovennosti-dolzhnostnykh-lits-ro",
+      "revision": 1
     }
   ]
 }
