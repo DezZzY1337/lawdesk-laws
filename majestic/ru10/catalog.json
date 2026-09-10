@@ -22,6 +22,16 @@
       "sourceUrl": null,
       "path": "documents/trudovoi-kodeks-shtata-san-andreas",
       "revision": 1
+    },
+    {
+      "id": "administrativnyi-kodeks-shtata-san-andreas",
+      "type": "code",
+      "title": "Административный кодекс штата Сан-Андреас",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/administrativnyi-kodeks-shtata-san-andreas",
+      "revision": 1
     }
   ]
 }

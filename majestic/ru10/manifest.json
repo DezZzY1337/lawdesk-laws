@@ -1,8 +1,8 @@
 {
   "projectId": "majestic",
-  "revision": "2",
+  "revision": "3",
   "serverId": "ru10",
-  "snapshotSha256": "10b31839063a6831c2abd4bb29dac2e99eccaecc007caf6d30f9f30f6afce858",
+  "snapshotSha256": "f1bf105b2c9f16ecc9b1cd832be0994e3138f242103e4a602b392bc73b143200",
   "snapshotUrl": "https://raw.githubusercontent.com/DezZzY1337/lawdesk-laws/main/majestic/ru10/snapshot.json",
-  "updatedAt": "2026-09-10T17:25:14.3135305Z"
+  "updatedAt": "2026-09-10T18:14:05.2073441Z"
 }
