@@ -1,12 +1,8 @@
 {
-  "schemaVersion": 1,
   "projectId": "russia-online",
-  "upstreamProjectId": "russiaonline",
+  "revision": "1",
   "serverId": "ro3",
-  "serverName": "Кутузовский",
-  "region": "ru",
-  "country": "ru",
-  "revision": 0,
-  "updatedAt": null,
-  "documents": []
+  "snapshotSha256": "97b381b9d3033443abb1ef22a3120363c1c1bd49adeae837597c122673bc2399",
+  "snapshotUrl": "https://raw.githubusercontent.com/DezZzY1337/lawdesk-laws/main/russia-online/ro3/snapshot.json",
+  "updatedAt": "2026-09-10T12:26:18.4873471Z"
 }

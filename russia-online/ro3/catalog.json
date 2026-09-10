@@ -2,6 +2,196 @@
   "schemaVersion": 1,
   "projectId": "russia-online",
   "serverId": "ro3",
-  "serverName": "Кутузовский",
-  "documents": []
+  "documents": [
+    {
+      "id": "federalnyi-zakon-o-gosudarstvennykh-territoriyakh-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Государственных территориях ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-gosudarstvennykh-territoriyakh-ro",
+      "revision": 1
+    },
+    {
+      "id": "pravila-dorozhnogo-dvizheniya-ro",
+      "type": "other",
+      "title": "Правила дорожного движения ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/pravila-dorozhnogo-dvizheniya-ro",
+      "revision": 1
+    },
+    {
+      "id": "trudovoi-kodeks-ro",
+      "type": "code",
+      "title": "Трудовой кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/trudovoi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-ro-ob-administrativnykh-pravonarusheniyakh",
+      "type": "code",
+      "title": "Кодекс ро об административных правонарушениях",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-ro-ob-administrativnykh-pravonarusheniyakh",
+      "revision": 1
+    },
+    {
+      "id": "protsessualnyi-kodeks-ro",
+      "type": "code",
+      "title": "Процессуальный кодекс ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/protsessualnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "ugolovnyi-kodeks-ro",
+      "type": "code",
+      "title": "Уголовный кодекс РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovnyi-kodeks-ro",
+      "revision": 1
+    },
+    {
+      "id": "konstitutsiya-ro",
+      "type": "constitution",
+      "title": "Конституция РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/konstitutsiya-ro",
+      "revision": 1
+    },
+    {
+      "id": "zakon-o-predprinimatelskoi-deyatelnosti-ro",
+      "type": "other",
+      "title": "Закон “О предпринимательской деятельности РО”",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/zakon-o-predprinimatelskoi-deyatelnosti-ro",
+      "revision": 1
+    },
+    {
+      "id": "kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "type": "code",
+      "title": "Кодекс этики и служебного поведения государственных служащих ро",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-politicheskikh-partiyakh",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Политических партиях»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-politicheskikh-partiyakh",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-federalnoi-sluzhbe-okhrany-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон«О Федеральной службе охраны ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-federalnoi-sluzhbe-okhrany-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-ob-oruzhii",
+      "type": "federal-law",
+      "title": "Федеральный закон «Об оружии»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-ob-oruzhii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-vooruzhennykh-silakh-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Вооружённых силах ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-vooruzhennykh-silakh-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-gosudarstvennoi-taine",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Государственной тайне»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-gosudarstvennoi-taine",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-federalnoi-sluzhbe-bezopasnosti-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Федеральной службе безопасности ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-federalnoi-sluzhbe-bezopasnosti-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-politsii",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Полиции»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-politsii",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-gosudarstvennoi-inspektsii-bezopasnosti-doroz",
+      "type": "federal-law",
+      "title": "Федеральный закон«О Государственной инспекции безопасности дорожного движения»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-gosudarstvennoi-inspektsii-bezopasnosti-doroz",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-sledstvennom-komitete-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Следственном комитете ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-sledstvennom-komitete-ro",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-zakon-o-prokurature-ro",
+      "type": "federal-law",
+      "title": "Федеральный закон «О Прокуратуре ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-zakon-o-prokurature-ro",
+      "revision": 1
+    }
+  ]
 }
