@@ -232,6 +232,56 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-zakon-o-neprikosnovennosti-dolzhnostnykh-lits-ro",
       "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-chrezvychainom-i-voennom-pol",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон «О Чрезвычайном и военном положении»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-chrezvychainom-i-voennom-pol",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-premer-ministre-ro-i-pravite",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон «О Премьер-министре ро и правительстве ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-premer-ministre-ro-i-pravite",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-federalnykh-ministerstvakh-r",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон «О Федеральных министерствах ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-federalnykh-ministerstvakh-r",
+      "revision": 1
+    },
+    {
+      "id": "federalnyi-konstitutsionnyi-zakon-o-sudebnoi-sisteme-ro",
+      "type": "constitution",
+      "title": "Федеральный конституционный закон«О Судебной системе ро»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/federalnyi-konstitutsionnyi-zakon-o-sudebnoi-sisteme-ro",
+      "revision": 1
+    },
+    {
+      "id": "fkz-o-gosudarstvennoi-dume-ro",
+      "type": "other",
+      "title": "ФКЗ «О Государственной Думе РО»",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/fkz-o-gosudarstvennoi-dume-ro",
+      "revision": 1
     }
   ]
 }
