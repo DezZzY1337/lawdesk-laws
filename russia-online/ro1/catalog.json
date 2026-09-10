@@ -72,6 +72,16 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-zakon-o-sredstvakh-massovoi-informatsii",
       "revision": 1
+    },
+    {
+      "id": "kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "type": "code",
+      "title": "Кодекс этики и служебного поведения государственных служащих РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/kodeks-etiki-i-sluzhebnogo-povedeniya-gosudarstvennykh-sluzhashc",
+      "revision": 1
     }
   ]
 }
