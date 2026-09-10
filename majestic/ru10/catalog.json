@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "projectId": "majestic",
   "serverId": "ru10",
-  "serverName": "Washington",
-  "documents": []
+  "documents": [
+    {
+      "id": "ugolovnyi-kodeks-shtata-san-andreas",
+      "type": "code",
+      "title": "Уголовный кодекс штата Сан-Андреас",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/ugolovnyi-kodeks-shtata-san-andreas",
+      "revision": 1
+    }
+  ]
 }

@@ -1,11 +1,8 @@
 {
-  "schemaVersion": 1,
   "projectId": "majestic",
+  "revision": "1",
   "serverId": "ru10",
-  "serverName": "Washington",
-  "region": "ru",
-  "country": "ru",
-  "revision": 0,
-  "updatedAt": null,
-  "documents": []
+  "snapshotSha256": "b1b467ebfb2f5178cfdc3fde15a7b482edb4e786ab72e3d32bcf16b186682250",
+  "snapshotUrl": "https://raw.githubusercontent.com/DezZzY1337/lawdesk-laws/main/majestic/ru10/snapshot.json",
+  "updatedAt": "2026-09-10T15:15:39.5297031Z"
 }
