@@ -12,6 +12,16 @@
       "sourceUrl": null,
       "path": "documents/ugolovnyi-kodeks-shtata-san-andreas",
       "revision": 1
+    },
+    {
+      "id": "trudovoi-kodeks-shtata-san-andreas",
+      "type": "code",
+      "title": "Трудовой Кодекс штата San-Andreas",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/trudovoi-kodeks-shtata-san-andreas",
+      "revision": 1
     }
   ]
 }
