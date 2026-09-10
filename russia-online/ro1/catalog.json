@@ -232,6 +232,16 @@
       "sourceUrl": null,
       "path": "documents/federalnyi-zakon-o-federalnoi-sluzhbe-bezopasnosti",
       "revision": 1
+    },
+    {
+      "id": "pravila-dorozhnogo-dvizheniya-ro",
+      "type": "other",
+      "title": "Правила дорожного движения РО",
+      "shortTitle": null,
+      "lawNumber": null,
+      "sourceUrl": null,
+      "path": "documents/pravila-dorozhnogo-dvizheniya-ro",
+      "revision": 1
     }
   ]
 }
